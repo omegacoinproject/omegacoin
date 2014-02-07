@@ -1,0 +1,9 @@
+Building Omegacoin
+
+See doc/readme-qt.rst for instructions on building Omegacoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Omegacoin.
+
+See doc/build-*.txt for instructions on building omegacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Omegacoin.
