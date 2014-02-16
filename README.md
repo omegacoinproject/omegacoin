@@ -5,7 +5,7 @@ Technical Specifications
  - 60 second block time targets
  - ~100 billion total coins
  - 20,000 coins per block, halves every ~2 years
- - Retarget every 144 blocks
+ - Retarget every 10 times per day (every 144 blocks)
  
 UBUNTU DEPENDENCIES
 ===================
