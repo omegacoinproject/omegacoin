@@ -1,6 +1,5 @@
 
 
-
 omegacoin.net
 
 
@@ -65,8 +64,6 @@ BitcoinTalk: https://bitcointalk.org/
 Facebook: https://www.facebook.com/omegacoincoin
 
 Twitter: https://twitter.com/omegacoincoinOMG
-
-VK: https://vk.com/omegacoin
 
 Reddit: http://www.reddit.com/r/omegacoin/
 
