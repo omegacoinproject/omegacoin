@@ -1,3 +1,10 @@
+
+
+
+omegacoin.net
+
+
+
 Technical Specifications
 ========================
 
