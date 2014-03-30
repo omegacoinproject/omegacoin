@@ -1,5 +1,4 @@
 
-
 omegacoin.net
 
 
@@ -9,8 +8,9 @@ Technical Specifications
 
  - Srypt proof-of-work algorithm
  - 60 second block time targets
- - ~100 billion total coins
- - 20,000 coins per block, halves every ~2 years
+ - ~100 billion total coins soft
+ - 1000 coin block reward for the life of the coin, OMG
+ - Dynamic structuring of bock rewards
  - Retarget every 10 times per day (every 144 blocks)
  
 UBUNTU DEPENDENCIES
